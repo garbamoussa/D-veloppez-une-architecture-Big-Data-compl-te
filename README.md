@@ -1,4 +1,4 @@
-# D-veloppez-une-architecture-Big-Data-compl-te
+# Développez-une-architecture-Big-Data-compl-te
 Développez une architecture Big Data complète
 Au bon vieux temps on utilisait des lettres et des timbres. On écrivait avec beaucoup d’application des missives qui devaient traverser le temps et l’espace afin de joindre leur destinataire. A cette époque, on avait IRC et ICQ (mais ça c’était il y a vraiment très longtemps). Aujourd’hui ça se passe différemment : on envoie des phrases de 140 caractères à des milliers de personnes d’un coup et on fait ça sur Twitter. Alors d’accord, ça n’a peut-être pas la poésie des vieux jours, mais tout est public et il y a une API !
 Dans ce projet vous allez sonder les pensées les plus secrètes de l'humanité… enfin, celles qui sont sur Twitter. Vous allez recréer le tableau de bord des tendances les plus virales. Par exemple, le 6 janvier 2017 nous fêtions les rois et les 185 ans de Gustave Doré et les sujets les plus en vogue étaient les suivants :
